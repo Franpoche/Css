@@ -1,0 +1,23 @@
+body {
+  background-image: url("4.jpg");
+  background-repeat: no-repeat;
+  background-size: contain;
+  color: white;
+}
+h4 {
+  font-style: oblique;
+}
+ul,
+ol,
+p {
+  color: gray;
+  font-style: oblique;
+}
+
+#foto {
+  background-color: white;
+  width: 200px;
+  height: 200px;
+  color: black;
+  text-align: center;
+}
